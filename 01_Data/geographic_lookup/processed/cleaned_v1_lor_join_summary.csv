@@ -1,0 +1,9 @@
+﻿check,result
+Bicycle records before join,26965
+Bicycle records after join,26965
+Matched records,26965
+Unmatched records,0
+Distinct bicycle LOR codes,534
+Distinct unmatched LOR codes,0
+Official planning areas,542
+Official areas without reports,8
