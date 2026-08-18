@@ -46,11 +46,11 @@ The main calculations were performed in Python and verified with SQL before the 
 
 ## Repository structure
 
-* `01_Data/` — raw, geographic and processed data
-* `02_Notebooks/` — data audit, cleaning and analysis notebooks
-* `03_SQL/` — SQLite database and SQL queries
-* `04_Tableau/` — final Tableau workbook
-* `Dude_Wheres_My_Bike_Final_Presentation.pdf` — final project presentation
+* `01_Data/` - raw, geographic and processed data
+* `02_Notebooks/` - data audit, cleaning and analysis notebooks
+* `03_SQL/` - SQLite database and SQL queries
+* `04_Tableau/` - final Tableau workbook
+* `Dude_Wheres_My_Bike_Final_Presentation.pdf` - final project presentation
 
 ## Limitations
 
